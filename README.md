@@ -3,7 +3,7 @@
 Welcome to my Valentine Project! This is a fun and interactive web project built with HTML, CSS, and JavaScript. It’s designed to ask a special question: "Will you be my Valentine?" 
 
 ## How to Use
-1. Open the live site: [Valentine Project](https://davidwinrich101.github.io/valentine-project/VALENTINE).
+1. Open the live site: [Valentine Project](https://davidwinrich101.github.io/Valentine-project/).
 2. Click the "Yes" or "No" button to see the responses.
 3. Enjoy the fun animations and video!
 
